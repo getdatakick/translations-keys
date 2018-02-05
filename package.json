@@ -1,0 +1,11 @@
+{
+  "name": "translations-keys",
+  "version": "1.0.0",
+  "description": "Webpack provides an official plugin for managing translation using [i18n-webpack-plugin](https://github.com/webpack/i18n-webpack-plugin), but in only allows for build-time translations by replacing strings in the source code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
